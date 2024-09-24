@@ -2,7 +2,7 @@
   "name": "Yo-Gulp-Starter",
   "private": true,
   "dependencies": {
-    "jquery": "~2.1.1",
+    "jquery": "^2.1.1",
     "modernizr": "^3.3.1",
     "foundation-sites": "^6.2.1",
     "slick-carousel": "slick.js#^1.6.0",
